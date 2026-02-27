@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026/02/2026-02-27.md",
+                "file": "daily/2026/02/2026-02-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-27"
+              "title": "2026-02-28"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94a79f351c357319",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2026/02/2026-02-27.md",
+                "file": "daily/2026/02/2026-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-02-27へのバックリンク"
+              "title": "2026-02-28へのバックリンク"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2026/02/2026-02-27.md",
+                "file": "daily/2026/02/2026-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-02-27からのアウトゴーイングリンク"
+              "title": "2026-02-28からのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2026/02/2026-02-27.md",
+                "file": "daily/2026/02/2026-02-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-27のアウトライン"
+              "title": "2026-02-28のアウトライン"
             }
           }
         ]
@@ -185,8 +186,9 @@
   },
   "active": "35a31f5187b48531",
   "lastOpenFiles": [
-    "Welcome.md",
     "daily/2026/02/2026-02-27.md",
+    "daily/2026/02/2026-02-28.md",
+    "Welcome.md",
     "templates/daily.md",
     "daily/2026/02",
     "daily/2026",
